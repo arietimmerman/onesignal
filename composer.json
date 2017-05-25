@@ -25,7 +25,7 @@
         "php": ">=5.6.4",
         "berkayk/onesignal-laravel": "dev-arie",
         "illuminate/notifications": "5.3.*",
-        "illuminate/support": "5.1.*|5.2.*|5.3.*"
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*"
     },
     "require-dev": {
         "mockery/mockery": "^0.9.5",
